@@ -48,9 +48,13 @@
   float: left;
   width: 100%;
 }
+.col-3{
+  float:none;
+  width:100%;
+}
    .col-3 p {
-     float:0px;
-     width: 100px;
+     float:none;
+     width: 100%;
   -moz-column-rule: 1px dotted #ccc;
   -webkit-column-rule: 1px dotted #ccc;
   column-rule: 1px dotted #ccc;
@@ -61,5 +65,14 @@
   -webkit-column-count: 3;
   column-count: 1;
 }
+
+.border-right{
+  border-right:0;
+}
+#details div{
+  height:auto;
+  
+}
+
  } 
 }
