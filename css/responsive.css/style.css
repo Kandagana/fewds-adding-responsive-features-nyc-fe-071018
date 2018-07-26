@@ -49,6 +49,7 @@
   width: 100%;
 }
    .col-3 p {
+     float:0px;
      width: 100px;
   -moz-column-rule: 1px dotted #ccc;
   -webkit-column-rule: 1px dotted #ccc;
