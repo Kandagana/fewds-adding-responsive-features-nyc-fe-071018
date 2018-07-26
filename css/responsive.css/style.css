@@ -77,7 +77,7 @@
   }
 
 #logo h2 {
-  display: inline-block;
+  display: none;
   font: 2.5em "Clicker Script", cursive;
   margin: 0;
   position: relative;
